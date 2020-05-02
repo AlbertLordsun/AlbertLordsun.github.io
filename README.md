@@ -1,2 +1,1 @@
-# AlbertLordsun.github.io
-Personal website 
+# Repository for my personal website
