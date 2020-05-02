@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: NatureScience
+title: Xiyang Sun
 
 # Short description of your site
 description: Keep The Moments In Time
@@ -14,7 +14,7 @@ author: Xiyang Sun
 navbar-links:
   Home: "home"
   Blogs: "blogs"
-#    - Research: "research"
+    - Research: "blogs/research"
 #    - Technology: "technology"
 #    - Education: "education"
 #    - Subject: "subject"
