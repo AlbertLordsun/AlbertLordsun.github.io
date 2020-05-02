@@ -3,6 +3,11 @@ layout: page
 title: Researches
 ---
 
+<div align="center">
+<a href="https://www.researchgate.net/profile/Derek_Ogle/" target="_blank"><img src="img/researchgate.png" alt="Research Gate" height="30"></a> &nbsp;&nbsp; <a href="http://orcid.org/0000-0002-0370-9299" target="_blank"><img src="img/ORCID.png" alt="ORCID" height="30"></a> &nbsp;&nbsp; <a href="http://scholar.google.com/citations?user=Xt9IgGkAAAAJ" target="_blank"><img src="img/GoogleScholar.jpg" alt="Google Scholar" height="30"></a>
+</div>
+---
+
 ## Experience
 * Soft robotics with bionic neural control strategies
 * Identification of chinese herbal medicine based on electronic nose
