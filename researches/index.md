@@ -34,3 +34,4 @@ title: Researches
 ### Theses
 * **Master thesis**: [Research On Ensemble Learning Based On Artiﬁcial Olfaction System](http://cdmd.cnki.com.cn/Article/CDMD-10335-1018186697.htm), 2018.
 * **Bachelor thesis**: Design Of Variable-Frequency Constant-Pressure Water Supply System Based On PLC, 2015.
+ 
