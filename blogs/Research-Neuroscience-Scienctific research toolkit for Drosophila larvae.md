@@ -55,6 +55,31 @@ GAL4-mediated gene expression via use of the Gal80 protein, which binds GAL4 and
  
  a generalizable toolkit that can express any effector in precise proportions of post-mitotic cells in Drosophila
 
+## Resources for learning Drosophila
+### Standard Brain
+* **The Standard Brain**, a first effort published by the group of **Martin Heisenberg**. Insight for the brain function requires 1) the **overall architecutre** of the brain; 2) **neural connection**.
+* **FlyCircuit**, by **Chiang and colleagues**, a database of tens of thousands of three-dimensional single neuron MARCM clones, which they used to reveal the connections between neuropils and develop a wiring diagram of the entire adult brain.
+
+### Online resources
+* **FlyBrain**, an online atlas and database of the Drosophila nervous system: http://flybrain.neurobio.arizona.edu . 
+* **FlyCircuit**, a database of Drosophila brain neurons: http://www.flycircuit.tw . 
+* **FlyView**, a Drosophila image database: http://flyview.unimuenster.de. 
+* **Virtual Fly Brain (VFB)**: “An interactive tool for neurobiolo- gists to explore the detailed neuroanatomy, gene expression, and associated phenotypes of the adult Drosophila melanogaster brain” (verbatim from Web site): http://www.virtualflybrain.org.
+
+### Antibodies
+* **DSHB**
+* **Wurzburg Hybridoma Library**
+### Fly stocks
+* **FlyView stock collection**: Enhancer trap lines from the FlyView project can be obtained at University of Muenster, Germany at http://flyview.uni-muenster.de/.
+* **Flytrap**, a database of P{GAL4} enhancer traps and their expression in brains :
+* **Flytrap**, University of Edinburgh, UK FlyTrap, Yale University, USA
+* **GETDB**, a GAL4 enhancer trap database: GETDB, National Institute of Basic Biology, Okazaki, Japan 
+* **NIG-FLY**: Fly stocks of the National Institute of Genetics: Stocks for RNA interference experiments may be obtained from the NIG RNAi fly unit at http://www.shigen.nig.ac.jp/fly/nigfly/. 
+* **Transgenic RNAi Project**: TRiP at the Harvard Medical School plans to generate 6,250 transgenic RNAi lines targeted to attP2 on chromosome 3. Stocks are distributed through Bloomington Drosophila Stock Center (BDSC), http://www.flyrnai.org/TRiP-HOME.html. 
+* **Vienna Drosophila RNAi Center**: The VDRC at IMP/IMBA in Vienna provides two genome-wide transgenic Drosophila RNAi libraries, http://www.vdrc.at. 
+* **Janelia Farm Research Campus**: A major effort is under way to generate a collection of 5,000 transgenic lines that drive expression in patterns encompassing all neurons in the brain. This ongoing effort was described in a proof-of-principle paper. These transgenic lines will become available once this collection is complete and characterized.
+* **Bloomington Stock Center**: Information about stocks at the BDSC at Indiana University, USA can be obtained at http://flystocks.bio.indiana.edu.
+* **Gene Disruption Project**: Information about insertion lines pro- duced by the Gene Disruption Project (GDP), Baylor College of Medicine, Texas, USA can be found at http://flypush.imgen.bcm.tmc.edu/pscreen/ .
 
 #### Reference
 1. [The Making and Un-Making of Neuronal Circuits in Drosophila, 2012](https://link.springer.com/book/10.1007/978-1-61779-830-6)
