@@ -21,13 +21,14 @@ description: Keep and share
 
 
 ---
-## Education
+## Subject
 ### Neuroscience
 
 ### Robotics
 
 ### Control Theory
 
+### Computer Science
 
 
 ---
