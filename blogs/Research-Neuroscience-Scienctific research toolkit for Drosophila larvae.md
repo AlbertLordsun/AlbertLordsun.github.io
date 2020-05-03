@@ -56,16 +56,14 @@ GAL4-mediated gene expression via use of the Gal80 protein, which binds GAL4 and
  a generalizable toolkit that can express any effector in precise proportions of post-mitotic cells in Drosophila
 
 ## Resources for learning Drosophila
-### Standard Brain
+###   Standard Brain
 * **The Standard Brain**, a first effort published by the group of **Martin Heisenberg**. Insight for the brain function requires 1) the **overall architecutre** of the brain; 2) **neural connection**.
 * **FlyCircuit**, by **Chiang and colleagues**, a database of tens of thousands of three-dimensional single neuron MARCM clones, which they used to reveal the connections between neuropils and develop a wiring diagram of the entire adult brain.
-
 ### Online resources
 * **FlyBrain**, an online atlas and database of the Drosophila nervous system: http://flybrain.neurobio.arizona.edu . 
 * **FlyCircuit**, a database of Drosophila brain neurons: http://www.flycircuit.tw . 
 * **FlyView**, a Drosophila image database: http://flyview.unimuenster.de. 
 * **Virtual Fly Brain (VFB)**: “An interactive tool for neurobiolo- gists to explore the detailed neuroanatomy, gene expression, and associated phenotypes of the adult Drosophila melanogaster brain” (verbatim from Web site): http://www.virtualflybrain.org.
-
 ### Antibodies
 * **DSHB**
 * **Wurzburg Hybridoma Library**
