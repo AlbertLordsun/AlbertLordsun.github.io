@@ -3,15 +3,11 @@ layout: page
 title: Behavioral repertoire of Drosophila larvae
 ---
 
-The genetic analysis of Drosophila behavior and of the brain structures controlling it was strongly in fluenced by two types of studies. 
-The isolation of behavioral mutants by countercurrent distribution and of three clock mutants with different phenotypes 
-that are all caused by mutations in the same gene, period, 
-showed that isolation of genetic mutants affecting specific behaviors was possible. 
-On the other hand, the isolation of structural brain mutants by Heisenberg and colleagues has given insight into e.g. 
-the role of the mushroom bodies in learning, the role of the central complex in walking behavior, 
-and the role of the optic lobes in vision, thereby linking specific parts of the brain to specific behaviors. 
-Since these studies, the behavioral repertoire of Drosophila has proven to be amazingly complex. 
-This is reflected in the range of techniques described below [1].
+Functional and anatomical dissection of neural circuits is often hindered by the complexity of such systems. With only 10,000 neurons, the central nervous system of the Drosophila larva is at least one order of magnitude simpler than its adult counterpart. Despite this numerical simplicity, the behavioral repertoire of the larva contains a surprisingly diverse array of sophisticated behaviors. Larvae demonstrate *robust orientation behavior* toward light and odors (phototaxis and chemotaxis). The sensory organs and circuits underlying these behaviors are greatly reduced in comparison with the adult: the larval eye is composed of just 12 photoreceptor neurons, the nose of just 21 olfactory sensory neurons. While the larval olfactory pathway displays remarkable structural similarities with the adult system its numerical simplicity facilitates the analysis of individual, genetically identifiable neurons at anatomical and functional levels.
+
+The genetic analysis of Drosophila behavior and of the brain structures controlling it was strongly influenced by two types of studies. 1) The isolation of behavioral mutants by countercurrent distribution and of three clock mutants with different phenotypes that are all caused by mutations in the same gene, period, showed that isolation of genetic mutants affecting specific behaviors was possible. 2) the isolation of structural brain mutants by Heisenberg and colleagues has given insight into e.g. the role of the mushroom bodies in learning, the role of the central complex in walking behavior, and the role of the optic lobes in vision, thereby linking specific parts of the brain to specific behaviors. Since these studies, the behavioral repertoire of Drosophila has proven to be amazingly complex. This is reflected in the range of techniques described below [1].
+
+The simplicity of the larval sensory systems allows us to aim for a comprehensive and systems-level understanding of the relationships between circuit anatomy and function, from *afferent sensory neurons* through to *higher brain centers where orientation decisions are made* and communicated to *efferent motor neurons*.
 
 ## Behaviors of Drosophila larvae
 * Aggressive
