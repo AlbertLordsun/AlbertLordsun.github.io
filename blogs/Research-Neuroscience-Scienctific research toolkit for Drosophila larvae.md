@@ -3,9 +3,11 @@ layout: page
 title: Scienctific research toolkit for Drosophila larvae
 ---
 
+---
 ## Category of research methods
 ### Gene expression
-* **Gal4-UAS system** 
+* ***P element techonology*
+* **Gal4-UAS binary system** 
 
  The GAL4-UAS system is a technique enabling the expression of a gene of choice in a defined spatiotemporal pattern. 
 GAL4 is a tran-scription factor from yeast that was adapted for use in Drosophila by Brand and Perrimon. 
@@ -15,7 +17,8 @@ the GAL4 line can be used to express any gene of interest in the same pattern by
 When both components are present in the same fly, the GAL4 protein that is expressed will bind to the UAS sequence, 
 activating the expression of the gene of interest. More recently, it has become possible to more finely control activation of 
 GAL4-mediated gene expression via use of the Gal80 protein, which binds GAL4 and inhibits it from binding the UAS sequence.[1]
-
+* **LexA/LexAOp**, which can be combined withe the Gal4 system
+* **QF/QUAS**
 * **Transgenic RNA interference (RNAi)**
 
   This method is used to knock down the expression of a given gene in a spatiotemporally controlled manner.
@@ -55,6 +58,7 @@ GAL4-mediated gene expression via use of the Gal80 protein, which binds GAL4 and
  
  a generalizable toolkit that can express any effector in precise proportions of post-mitotic cells in Drosophila
 
+---
 ## Resources for learning Drosophila
 ###   Standard Brain
 * **The Standard Brain**, a first effort published by the group of **Martin Heisenberg**. Insight for the brain function requires 1) the **overall architecutre** of the brain; 2) **neural connection**.
@@ -77,7 +81,29 @@ GAL4-mediated gene expression via use of the Gal80 protein, which binds GAL4 and
 * **Vienna Drosophila RNAi Center**: The VDRC at IMP/IMBA in Vienna provides two genome-wide transgenic Drosophila RNAi libraries, http://www.vdrc.at. 
 * **Janelia Farm Research Campus**: A major effort is under way to generate a collection of 5,000 transgenic lines that drive expression in patterns encompassing all neurons in the brain. This ongoing effort was described in a proof-of-principle paper. These transgenic lines will become available once this collection is complete and characterized.
 * **Bloomington Stock Center**: Information about stocks at the BDSC at Indiana University, USA can be obtained at http://flystocks.bio.indiana.edu.
-* **Gene Disruption Project**: Information about insertion lines pro- duced by the Gene Disruption Project (GDP), Baylor College of Medicine, Texas, USA can be found at http://flypush.imgen.bcm.tmc.edu/pscreen/ .
+* **Gene Disruption Project**: Information about insertion lines pro- duced by the Gene Disruption Project (GDP), Baylor College of Medicine, Texas, USA can be found at http://flypush.imgen.bcm.tmc.edu/pscreen/.
 
+---
+## Important questions
+1. **the identification and description of pre-and postsynaptic sites in neural networks**: 
+  *  *the use of antibodies that recognize numerous pre- and postsynaptic markers, whether in the axons or dendrites*. However, this requires that the pre-synaptic marker can be expressed cleanly in one neuron and the postsynaptic marker in the other, a prerequisite that is often notobvious.
+2. **the description of the networks by means of transsynaptic markers**
+  * *wheat germ agglu- tinin conjugated to HRP (WGA-HRP)*, which when expressed or injected into a neuron can be transported via the synapse to the synaptic partner, which also becomes labeled by the marker and thus identified. This technique, however, has only had very limited success in Drosophila.
+3. **the selective perturbation of limited numbers of neurons within networks by means of intersectional strategies and novel tools**
+  * *GAL4-mediated activation of a transgene*
+   1. *With Gal80 --(Gal4 & Gal80 + UAS-transgene == expression)*. For example, one might have a GAL4 line that expresses in the αβ lobes of the mushroom body as well as a few neurons elsewhere in the brain, and a Gal80 line that expresses specifically in all mushroom body neurons. When both the GAL4 and the Gal80 lines are present together with a UAS-transgene, the transgene would only be expressed in those few neurons outside the mushroom body.
+   2. *Split-Gal4 --(DBD & AD +UAS-transgene == expression)*. In this system, the DNA-binding domain (DBD) and the activation domain (AD) of GAL4 are split and driven by two separate enhancers. Only in cells that express both the DBD and AD, which then reassociate via a leucine zipper to form an active GAL4 protein, will the UAS-transgene be expressed.
+   3. *LexA/LexAOp*, which can be combined together with GAL4 system.
+   4. *Qsystem*, which can be combined together with GAL4 system.
+4. **in vivo imaging of a functioning brain when performing various tasks**
+  * **Functional interfernce**
+   1. *MARCM*
+   2. *IMAGO*, uses an integrase-based technique to generate knock-out or tagged alleles of a gene of interest conditionally, thus providing more experimental freedom in comparison to MARCM.
+   3. *FIAsH-FALI*, is a method allowing proteins expressing a tetracysteine tag to be inhibited upon illumination with light at 488nm when in the presence of the fluorophore FlAsH. Furthermore, it is possible with a relatively straightforward recombineering strategy to tag any protein of interest with a tetracysteine tag (or any other tag of interest), providing a method for the temporal and local inhibition of protein function, enabling its study in a given process.
+  * **In vivo imaging**, involves the *direct visualization of neuronal activation by means of a fluorescent signa*. This signal comes from a *genetically encoded calcium indicator* in which calmodulin is linked to GFP that has been circularly permuted, such as cameleons and the G-CaMPs with higher signal-to-noise. Action potentials trigger a rise in intracellular Ca2+, which in turn is bound by the calmodulin of the indicator causing a change in the conformation of the GFP and leading to increased fluorescence.
+   1. *cameleons*
+   2. *G-CaMPs*
+  
+---
 #### Reference
 1. [The Making and Un-Making of Neuronal Circuits in Drosophila, 2012](https://link.springer.com/book/10.1007/978-1-61779-830-6)
