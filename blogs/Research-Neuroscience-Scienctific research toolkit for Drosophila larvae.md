@@ -3,21 +3,16 @@ layout: page
 title: Scienctific research toolkit for Drosophila larvae
 ---
 
+Drosophila is one of the most successful genetic model organisms for studying nervous system development and function. It presents a unique combination of neural networks of intermediate complexity, which are composed of identified neurons that can be genetically manipulated and interrogated throughout their development by imaging and electrophysiology.
+
 ---
 ## Category of research methods
 ### Gene expression
 * ***P element techonology*
 * **Gal4-UAS binary system** 
 
- The GAL4-UAS system is a technique enabling the expression of a gene of choice in a defined spatiotemporal pattern. 
-GAL4 is a tran-scription factor from yeast that was adapted for use in Drosophila by Brand and Perrimon. 
-In short, when the expression of GAL4 is under the control of a particular enhancer 
-(e.g., an enhancer that is activated in all mushroom body neurons), 
-the GAL4 line can be used to express any gene of interest in the same pattern by cloning the coding cDNA behind the UAS sequence. 
-When both components are present in the same fly, the GAL4 protein that is expressed will bind to the UAS sequence, 
-activating the expression of the gene of interest. More recently, it has become possible to more finely control activation of 
-GAL4-mediated gene expression via use of the Gal80 protein, which binds GAL4 and inhibits it from binding the UAS sequence.[1]
-* **LexA/LexAOp**, which can be combined withe the Gal4 system
+ The GAL4-UAS system is a technique enabling the expression of a gene of choice in a defined spatiotemporal pattern. GAL4 is a tran-scription factor from yeast that was adapted for use in Drosophila by Brand and Perrimon. In short, when the expression of GAL4 is under the control of a particular enhancer (e.g., an enhancer that is activated in all mushroom body neurons), the GAL4 line can be used to express any gene of interest in the same pattern by cloning the coding cDNA behind the UAS sequence. When both components are present in the same fly, the GAL4 protein that is expressed will bind to the UAS sequence, activating the expression of the gene of interest. More recently, it has become possible to more finely control activation of GAL4-mediated gene expression via use of the Gal80 protein, which binds GAL4 and inhibits it from binding the UAS sequence.[1]
+* **LexA/LexAOp**, which can be combined withe the Gal4 system.
 * **QF/QUAS**
 * **Transgenic RNA interference (RNAi)**
 
@@ -27,10 +22,33 @@ GAL4-mediated gene expression via use of the Gal80 protein, which binds GAL4 and
 * **Rescue or overexpression experiments**
 * **RNAi expression / Dominant-negative proteins expression**
 
+### Single cell labelling
+* **FLPout-base strategy**
+* **Genetic reporter**
 
 ### Neural morphology
-* **Green/Red fluorescent protein (GFP/RFP)**
+#### Methods
+* **Green/Red fluorescent protein (GFP/RFP)**. GFP fragments are expressed at membranes.
 * **lacZ**
+* **GFP Reconstitution Across Synaptic Partners (GRASP)**, for visualization of synapse. GRASP was then rapidly implemented in the fruit fly by taking advantage of the two binary systems, GAL/UAS and LexA/LexAOp.
+* **Two-photon laser scanning microscopy (2PLSM)**, which can be used to analyzed the neurons in the deep part of the brain.
+#### Applications
+
+Genetically encoded markers used in combination with the GAL/UAS constitute powerful and versatile tools for the Drosophila neuroanatomist. In this context, it is important to keep in mind that control experiments indicating that markers do not affect the morphology of neurons are still lacking for most of them. Another important feature of certain genetically encoded markers is the specificity of their subcellular localization. Similarly, antibodies recognizing markers such as GFP or DsRed are very useful for detecting low expression levels, especially in single or sparse neurons.
+
+* *Labelling based on the various **subcellular localization***: --nuclear, cytoplasmic, or associated to the membrane, to the cytoskeleton, or to specific organelles.
+ 1. Cytoplasmic markers
+ 2. Nuclear Markers
+ 3. Membrane-Bound Markers
+ 4. Cytoskeleton- Bound Markers
+ 5. Secretory Pathway and Mitochondrial Markers
+* *Presynaptic marker*, considering the directionality of the information flow
+ 1. Syt 1-GFP
+ 2. N-Syb-GFP
+ 3. Brp-GFP
+* *Somatodendritic and Postsynaptic marker*, considering the directionality of the information flow
+ 1. DenMark
+ 2. Dscam 17.1-GFP
 
 
 ### Neural signal
@@ -64,24 +82,24 @@ GAL4-mediated gene expression via use of the Gal80 protein, which binds GAL4 and
 * **The Standard Brain**, a first effort published by the group of **Martin Heisenberg**. Insight for the brain function requires 1) the **overall architecutre** of the brain; 2) **neural connection**.
 * **FlyCircuit**, by **Chiang and colleagues**, a database of tens of thousands of three-dimensional single neuron MARCM clones, which they used to reveal the connections between neuropils and develop a wiring diagram of the entire adult brain.
 ### Online resources
-* **FlyBrain**, an online atlas and database of the Drosophila nervous system: http://flybrain.neurobio.arizona.edu . 
-* **FlyCircuit**, a database of Drosophila brain neurons: http://www.flycircuit.tw . 
-* **FlyView**, a Drosophila image database: http://flyview.unimuenster.de. 
-* **Virtual Fly Brain (VFB)**: “An interactive tool for neurobiolo- gists to explore the detailed neuroanatomy, gene expression, and associated phenotypes of the adult Drosophila melanogaster brain” (verbatim from Web site): http://www.virtualflybrain.org.
+* **FlyBrain**, an online atlas and database of the Drosophila nervous system: [http://flybrain.neurobio.arizona.edu](http://flybrain.neurobio.arizona.edu). 
+* **FlyCircuit**, a database of Drosophila brain neurons: [http://www.flycircuit.tw](http://www.flycircuit.tw). 
+* **FlyView**, a Drosophila image database: [http://flyview.unimuenster.de](http://flyview.unimuenster.de). 
+* **Virtual Fly Brain (VFB)**: “An interactive tool for neurobiolo- gists to explore the detailed neuroanatomy, gene expression, and associated phenotypes of the adult Drosophila melanogaster brain” (verbatim from Web site): [http://www.virtualflybrain.org](http://www.virtualflybrain.org).
 ### Antibodies
 * **DSHB**
 * **Wurzburg Hybridoma Library**
 ### Fly stocks
-* **FlyView stock collection**: Enhancer trap lines from the FlyView project can be obtained at University of Muenster, Germany at http://flyview.uni-muenster.de/.
+* **FlyView stock collection**: Enhancer trap lines from the FlyView project can be obtained at University of Muenster, Germany at [http://flyview.uni-muenster.de/](http://flyview.uni-muenster.de/).
 * **Flytrap**, a database of P{GAL4} enhancer traps and their expression in brains :
 * **Flytrap**, University of Edinburgh, UK FlyTrap, Yale University, USA
 * **GETDB**, a GAL4 enhancer trap database: GETDB, National Institute of Basic Biology, Okazaki, Japan 
-* **NIG-FLY**: Fly stocks of the National Institute of Genetics: Stocks for RNA interference experiments may be obtained from the NIG RNAi fly unit at http://www.shigen.nig.ac.jp/fly/nigfly/. 
-* **Transgenic RNAi Project**: TRiP at the Harvard Medical School plans to generate 6,250 transgenic RNAi lines targeted to attP2 on chromosome 3. Stocks are distributed through Bloomington Drosophila Stock Center (BDSC), http://www.flyrnai.org/TRiP-HOME.html. 
-* **Vienna Drosophila RNAi Center**: The VDRC at IMP/IMBA in Vienna provides two genome-wide transgenic Drosophila RNAi libraries, http://www.vdrc.at. 
+* **NIG-FLY**: Fly stocks of the National Institute of Genetics: Stocks for RNA interference experiments may be obtained from the NIG RNAi fly unit at [http://www.shigen.nig.ac.jp/fly/nigfly/](http://www.shigen.nig.ac.jp/fly/nigfly/). 
+* **Transgenic RNAi Project**: TRiP at the Harvard Medical School plans to generate 6,250 transgenic RNAi lines targeted to attP2 on chromosome 3. Stocks are distributed through Bloomington Drosophila Stock Center (BDSC), [http://www.flyrnai.org/TRiP-HOME.html](http://www.flyrnai.org/TRiP-HOME.html). 
+* **Vienna Drosophila RNAi Center**: The VDRC at IMP/IMBA in Vienna provides two genome-wide transgenic Drosophila RNAi libraries, [http://www.vdrc.at](http://www.vdrc.at). 
 * **Janelia Farm Research Campus**: A major effort is under way to generate a collection of 5,000 transgenic lines that drive expression in patterns encompassing all neurons in the brain. This ongoing effort was described in a proof-of-principle paper. These transgenic lines will become available once this collection is complete and characterized.
-* **Bloomington Stock Center**: Information about stocks at the BDSC at Indiana University, USA can be obtained at http://flystocks.bio.indiana.edu.
-* **Gene Disruption Project**: Information about insertion lines pro- duced by the Gene Disruption Project (GDP), Baylor College of Medicine, Texas, USA can be found at http://flypush.imgen.bcm.tmc.edu/pscreen/.
+* **Bloomington Stock Center**: Information about stocks at the BDSC at Indiana University, USA can be obtained at [http://flystocks.bio.indiana.edu](http://flystocks.bio.indiana.edu).
+* **Gene Disruption Project**: Information about insertion lines pro- duced by the Gene Disruption Project (GDP), Baylor College of Medicine, Texas, USA can be found at [http://flypush.imgen.bcm.tmc.edu/pscreen/](http://flypush.imgen.bcm.tmc.edu/pscreen/).
 
 ---
 ## Important questions
