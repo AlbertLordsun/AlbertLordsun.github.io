@@ -57,6 +57,11 @@ A big step toward a global understanding of larval behavior will be the developm
 * [The Parallel Worm Tracker: a platform for measuring average speed and drug-induced paralysis in nema- todes]
 * [Automated imaging of C.elegans behavior]
 
+
+---
+## Neural circuits behind
+### NN for motion vision
+
 ---
 ## Open questions
 * How are changes in odor concentrations represented in the larval olfactory system? How are changes in light intensity rep- resented by photoreceptors in the Bolwig’s organ? How is this information interpreted by higher brain centers?
