@@ -25,7 +25,6 @@ In response to light, larvae avoid regions of high stimulus intensities. For att
 
 As described above, **the navigational algorithms allowing larvae to chemotax or phototax likely rely on temporally based decisions (klinotaxis)**. This process involves a comparison of odor intensities measured at different points in space. The contribution of spatial comparisons between paired olfactory or visual organs (tropotaxis) should not, however, be excluded. This type of process seems to **involve some sort of memory**—a hypothesis yet to be tested in the larva. Concerning the use of bilateral comparisons in the detection of olfactory signals, theoretical arguments predict that the typical concentration differences measured between the two DOs would fluctuate too much to be detected reliably. It is reasonable to speculate though that processing of the same signal by left and right sensors increases the signal-to-noise ratio when detecting minute changes in concentration over time. Such a process would have to involve **cross talk** between the left and right olfactory pathways. Circuits capable of implementing this operation have yet to be identified (**Potential topics to determine the circuit structure**).
 
-
 * Aggressive
  
  Aggression is a well-known trait throughout the animal kingdom. It is essential for a variety of elementary functions like acquisition of food or mates and defense against predators. By contrast, excessive aggression requires high-energy depending acts that are evolutionary unfavorable.
