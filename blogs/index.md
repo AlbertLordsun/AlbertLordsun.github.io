@@ -7,9 +7,9 @@ description: Keep and share
 ---
 ## Research
 ### For Neuroscience
+* [Biological structure of *Drosophila* larvae](Research-Neuroscience-Biological structure of Drosophila larvae)
 * [Behavioral repertoire of *Drosophila* larvae](Research-Neuroscience-Behavioral repertoire of Drosophila larvae)
 * [Scienctific research toolkit for *Drosophila* larvae](Research-Neuroscience-Scienctific research toolkit for Drosophila larvae)
-* [Biological structure of *Drosophila* larvae](Research-Neuroscience-Biological structure of Drosophila larvae)
 
 ### For soft robotics
 * [Inspiration of soft robot](R-SR-Inspiration of soft robot)
