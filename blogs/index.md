@@ -18,7 +18,7 @@ description: Keep and share
 * [Simulation of soft robot](R-SR-Simulation of soft robot)
 
 ### For personal experiments
-* [Gas detection via QCM-D)](R-PE-Gas detection via QCM)
+* [Gas detection via QCM-D](R-PE-Gas detection via QCM)
 * [Construction of soft structure](R-PE-Construction of soft structure)
 * [Notes for 3D printing](R-PE-Notes for 3D printing)
 * [Measurement of biological properties](R-PE-Measurement of biological properties)
