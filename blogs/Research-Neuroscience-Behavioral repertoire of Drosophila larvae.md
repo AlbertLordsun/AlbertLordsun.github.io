@@ -11,7 +11,7 @@ The simplicity of the larval sensory systems allows us to aim for a comprehensiv
 
 ---
 ## Behaviors of Drosophila larvae
-* **Orientation** (Phototaxis/Chemotaxis/**Klinotaxis, general one**)
+* **Orientation** ([it differs from the navigation](https://medium.com/@RightHearApp/been-wondering-about-orientation-vs-navigation-f76b2c01174c))
 
 Orientation behaviors are usually classified into two groups: *kinesis* and *taxis*. Kinesis involves undirected changes in activity in function of stimulus intensity. A process is categorized as *klinokinesis* when the rate of turning is a function of stimulus intensity. In *orthokinesis*, the rate of movement (activity) is a function of stimulus intensity. For both orientation strategies, migration toward (or away from) the source of an attractive (or repulsive) stimulus results from a series of undirected reorientation events. A well-documented example of klino kinesis is bacterial chemot- axis. Escherichia coli navigate chemical gradients according to a biased random walk (a klinokinesis). In short, bacterial loco- motion is based on the alternation between two modes of motion: straight runs and random turns. When a bacterium experiences increasing concentrations of an attractant (e.g., sugar), it tends to suppress turning (positive chemotaxis: Δ C /Δ t > 0 leads to turn suppression). In all other conditions, turning occurs at a constant rate. The same principle governs negative chemotaxis: turning is suppressed when a concentration decrease is experienced (negative chemotaxis: Δ C /Δ t < 0 leads to turn suppression).
 
