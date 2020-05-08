@@ -21,6 +21,7 @@ title: Resources
 
 ### For integration between neuroscience and robot
 * [NeuroRobotics platform (NRP)](https://www.neurorobotics.net/local_install.html)
+* [BrainScaleS-2](https://brainscales.kip.uni-heidelberg.de/)
 
 ### For computation
 * [Matlab](https://www.mathworks.com/downloads/)/[Matlab online version](https://ww2.mathworks.cn/products/matlab-online.html)
