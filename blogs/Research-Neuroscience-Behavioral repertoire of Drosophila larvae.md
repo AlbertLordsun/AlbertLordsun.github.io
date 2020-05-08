@@ -43,6 +43,10 @@ Locomotor behavior and flight behavior in flies both require a complex coordinat
 * Phototaxis
 
  Phototaxis behavior implies the movement of an organism in the direction of a light source or away from it. **While adult flies are positively phototactic, larvae are photophobic**. These light preferences can be crucial for survival. 1) **Adult phototaxis behavior** is polygenic and is influenced by different factors such as age or rhabdomere structure of the eye. 2) **Light avoidance in larvae** is regulated by the paired Bolwig organs, which form the primitive eye structures in this life stage and which are connected to the pigment dispersing factor expressing lateral neurons. Further, it has also been shown that light sensitive dendrites in the body wall contribute to this behavior as well as two pairs of isomorphic neurons in the central brain which seem to be involved in the decision between light and dark.
+ 
+* Thermotaxis
+
+ Drosophila third-instar larvae exhibit changes in their behavioral responses to gravity and food as they transition from feeding to wandering stages. Using a thermal gradient encompassing the comfortable range (18°C to 28°C), we found that third-instar larvae exhibit a dramatic shift in thermal preference. Early third-instar larvae prefer 24°C, which switches to increasingly stronger biases for 18°C–19°C in mid- and late-third-instar larvae. --[(**age-dependent transitions in temperature selection**)](https://www.sciencedirect.com/science/article/pii/S2211124716312505)
 
 ---
 ## Behavior analysis
