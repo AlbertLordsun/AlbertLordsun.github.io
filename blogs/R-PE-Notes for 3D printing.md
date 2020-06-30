@@ -12,8 +12,8 @@ title: Notes for 3D printing
 ## Mold printing
 ### Equipments:
 
-(i) Hardware: Wanhao Duplicator 4S, with the filament material of ABS or PLA
-(ii) Software: 1) Java; 2) Python; 3) ReplicatorG/ SIMPLIFY 3D(Optional);
+(i) Hardware: Wanhao Duplicator 4S, with the filament material of ABS or PLA   
+(ii) Software: 1) Java; 2) Python; 3) ReplicatorG/ SIMPLIFY 3D(Optional);   
 (iii) [Environment setting and software installation](http://www.wanhao3dprinter.com/Down/ShowArticle.asp?ArticleID=18) 
 	
 ### Operations  
@@ -25,7 +25,7 @@ title: Notes for 3D printing
     * load the filament: 1) wait until the nozzle has reached the temperature about 220 degrees for printing; 2) gradually fill the filament into the nozzle through the top hole of the nozzle base. 3) stop filling until the filament has come out from the nozzle.
     * Select the file for printing: 1) preheat and wait;
 
-**Tips or notices:**
+**Tips or notices:**  
 1) After the first layer is printed, screw down the nut a little bit to bring it closer together; --(aim for the better printing mold);
 2) In order to print better mold, PLA is better than ABS material during experiments.
 
