@@ -28,4 +28,11 @@ title: Resources
 * [Python](https://www.python.org/downloads/)/[Anaconda](https://docs.anaconda.com/anaconda/install/)
 
 ### For academic research
+#### 1) Paper Writing
+* [Office]
+* [Latex](https://www.latex-project.org/get/)
+    Reference: 1) [Overleaf templates](https://www.overleaf.com/latex/templates)
 
+#### 2) Figure Related
+* [Inkscape](https://inkscape.org/release/inkscape-master/?latest=1): for photo typesetting
+* [Fiji/ImageJ](https://imagej.nih.gov/ij/download.html): Academic software for figure editing, format transformation
