@@ -5,13 +5,13 @@ title: Resources
 
 ## Neuroscience
 
-
+---
 ## Computational Neuroscience
 
-
+---
 ## Machine Learning
 
-
+---
 ## Softwares
 ### For neuroscience
 
