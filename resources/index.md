@@ -12,11 +12,28 @@ title: Resources
 ## Machine Learning
 
 ---
+## Deep Learning
+
+
+---
 ## Softwares
 ### For neuroscience
 
 
 ### For robot
+#### 1) Structure design
+* [Solidworks](https://www.solidworks.com/sw/support/downloads.htm) (not free)
+* [Onshape](https://www.onshape.com/) (free, online)
+#### 2) Electrical circuit
+* [Altium Designer](https://www.altium.com/free-trials): circuit design
+* [立创EDA](https://lceda.cn/editor): circuit design (free, online)
+* [TinkerCAD](https://www.tinkercad.com/dashboard?type=circuits&collection=designs): circuit simulation (free, online, programmable)
+
+#### 3) Programming
+* [Arduino](https://www.arduino.cc/en/main/software): IDE for Arduino platform
+* [Python/Jupyter](https://docs.anaconda.com/anaconda/install/): Alternative platform for Arduino IDE
+
+#### 4) Simulation
 * [Webots](https://cyberbotics.com/)
 
 ### For integration between neuroscience and robot
