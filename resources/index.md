@@ -25,6 +25,8 @@ title: Resources
 * [Solidworks](https://www.solidworks.com/sw/support/downloads.htm) (not free)
 * [Onshape](https://www.onshape.com/) (free, online)
 
+    Reference: 1) [Onshape tutorial](https://www.youtube.com/watch?v=pMWnsHpDlQE)
+
 #### 2) Electrical circuit
 * [Altium Designer](https://www.altium.com/free-trials): circuit design
 * [立创EDA](https://lceda.cn/editor): circuit design (free, online)
@@ -33,6 +35,7 @@ title: Resources
 #### 3) Programming
 * [Arduino](https://www.arduino.cc/en/main/software): IDE for Arduino platform
 * [Python/Jupyter](https://docs.anaconda.com/anaconda/install/): Alternative platform for Arduino IDE
+* [Markdown](https://www.markdownguide.org/)
 
 #### 4) Simulation
 * [Webots](https://cyberbotics.com/)
