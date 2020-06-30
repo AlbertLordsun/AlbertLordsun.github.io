@@ -31,6 +31,7 @@ title: Resources
 #### 1) Paper Writing
 * [Office]
 * [Latex](https://www.latex-project.org/get/)
+
     Reference: 1) [Overleaf templates](https://www.overleaf.com/latex/templates)
 
 #### 2) Figure Related
