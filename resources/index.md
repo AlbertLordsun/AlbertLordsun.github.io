@@ -24,6 +24,7 @@ title: Resources
 #### 1) Structure design
 * [Solidworks](https://www.solidworks.com/sw/support/downloads.htm) (not free)
 * [Onshape](https://www.onshape.com/) (free, online)
+
 #### 2) Electrical circuit
 * [Altium Designer](https://www.altium.com/free-trials): circuit design
 * [立创EDA](https://lceda.cn/editor): circuit design (free, online)
