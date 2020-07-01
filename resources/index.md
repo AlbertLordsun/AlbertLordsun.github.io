@@ -19,6 +19,7 @@ title: Resources
 ## Softwares
 ### For neuroscience
 
+* [FlyBrainLab](https://www.biorxiv.org/content/biorxiv/early/2020/06/24/2020.06.23.168161.full.pdf)
 
 ### For robot
 #### 1) Structure design
