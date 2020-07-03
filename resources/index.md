@@ -23,9 +23,8 @@ title: Resources
 
 ### *For robot*
 #### 1) Structure design
-* [Solidworks](https://www.solidworks.com/sw/support/downloads.htm) (not free)
-* [Onshape](https://www.onshape.com/) (free, online)
-
+* [Solidworks](https://www.solidworks.com/sw/support/downloads.htm) (not free)  
+* [Onshape](https://www.onshape.com/) (free, online)  
     Reference: 1) [Onshape tutorial](https://www.youtube.com/watch?v=pMWnsHpDlQE)
 
 #### 2) Electrical circuit
@@ -52,8 +51,7 @@ title: Resources
 ### *For academic research*
 #### 1) Paper Writing
 * [Office]()
-* [Latex](https://www.latex-project.org/get/)
-
+* [Latex](https://www.latex-project.org/get/)  
     Reference: 1) [Overleaf templates](https://www.overleaf.com/latex/templates)
 
 #### 2) Figure Related
