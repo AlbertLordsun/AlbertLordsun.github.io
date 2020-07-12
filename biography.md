@@ -16,6 +16,9 @@ title: Dr. Xiyang Sun
 * Machine Learning
 
 ### Profiles
+<div align="center">
+<a href="https://www.researchgate.net/profile/Xiyang_Sun2" target="_blank"><img src="img/researchgate.png" alt="Research Gate" height="30"></a> &nbsp;&nbsp; <a href="https://orcid.org/0000-0002-6655-4490" target="_blank"><img src="img/ORCID.png" alt="ORCID" height="30"></a> &nbsp;&nbsp; <a href="https://scholar.google.com/citations?user=eIA-olIAAAAJ&hl=en" target="_blank"><img src="img/GoogleScholar.jpg" alt="Google Scholar" height="30"></a>
+</div>
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=eIA-olIAAAAJ)
 * [ORCID](https://orcid.org/0000-0002-6655-4490)
 * [ResearchGate](https://www.researchgate.net/profile/Xiyang_Sun2)
