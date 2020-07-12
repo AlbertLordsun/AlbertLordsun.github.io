@@ -4,7 +4,7 @@ title: Xiyang Sun
 ---
 
 <div align="center">
-***Doctor & Blogger***
+Doctor & Blogger
 </div>
 
 ---
