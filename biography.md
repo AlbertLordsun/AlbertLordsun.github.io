@@ -1,11 +1,8 @@
 ---
 layout: page
 title: Xiyang Sun
+subtitle: Doctor & Blogger
 ---
-
-<div align="center">
-Doctor & Blogger
-</div>
 
 ---
 ## Education
