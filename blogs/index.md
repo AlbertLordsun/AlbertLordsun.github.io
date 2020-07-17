@@ -33,8 +33,8 @@ description: Keep and share
 ---
 ## **Subject**
 ### ***Neuroscience***
-#### 1. *Book*
-> * [Neuroscience: exploring the brain](https://books.google.co.jp/books/about/Neuroscience.html?id=75NgwLzueikC&redir_esc=y)    
+#### 1. *Book*  
+> * [Neuroscience: exploring the brain](https://books.google.co.jp/books/about/Neuroscience.html?id=75NgwLzueikC&redir_esc=y)     
 ### ***Robotics***  
 > * [Arduino via Python programming](S-R-Arduino via Python programming)  
 ### ***Control Theory***  

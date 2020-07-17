@@ -8,11 +8,23 @@ title: Resources
 ---
 ## **Computational Neuroscience**
 
----
-## **Machine Learning**
 
 ---
-## **Deep Learning**
+## **Artificial Intelligence**  
+### ***Developing situation***  
+[1] [2019人工智能发展报告](https://www.aminer.cn/research_report/5de27b53af66005a44822b12?download=true&pathname=pdf/caai2019.pdf)  
+[2] [全球人工智能发展白皮书](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/technology-media-telecommunications/deloitte-cn-tmt-ai-report-zh-190919.pdf)
+[3] [2020腾讯人工智能白皮书](https://www.vzkoo.com/doc/14751.html)
+
+### ***Machine Learning***   
+#### *Videos*  
+
+#### *Books*  
+
+#### *Other materials*  
+[1] [Course notes on Optimization of Machine Learning](https://pan.baidu.com/s/1Z7gzjWMbta75eeEMv-1kzA): n9nh
+
+### ***Deep Learning***   
 
 
 ---

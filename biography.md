@@ -36,7 +36,7 @@ subtitle: Doctor & Blogger
 ## Publication  
 
 ### *Article*   
-* **Xiyang Sun**, Yingtao Liu, Chang Liu, Koichi Mayumi, Kohzo Ito, Akinao Nose, Hiroshi Kohsaka*. [A neuromechanical model and kinematic analyses for Drosophila larval crawling based on physical measurements](),2020.
+* **Xiyang Sun**, Yingtao Liu, Chang Liu, Koichi Mayumi, Kohzo Ito, Akinao Nose, Hiroshi Kohsaka*. [A neuromechanical model and kinematic analyses for Drosophila larval crawling based on physical measurements](), 2020.
 * **Xiyang Sun**, Linfeng Liu, Zhan Wang, Jiacheng Miao, You Wang*, Zhiyuan Luo, Guang Li. [An optimized multi-classifiers ensemble learning for identification of ginsengs based on electronic nose](https://www.sciencedirect.com/science/article/abs/pii/S0924424717309536), [*Sensors and Actuators A: Physical*](https://www.sciencedirect.com/journal/sensors-and-actuators-a-physical), 2017, 266,135-144.  
 * Zhan Wang, **Xiyang Sun**, Jiacheng Miao, You Wang*, Zhiyuan Luo, Guang Li. [Conformal Prediction Based on K-Nearest Neighbors for Discrimination of Ginsengs by a Home-Made Electronic Nose](https://www.mdpi.com/1424-8220/17/8/1869), [*Sensors*](https://www.mdpi.com/journal/sensors), 2017, 17(8), 1869.  
 * Daqi Chen, **Xiyang Sun**, Kaihuan Zhang, Guokang Fan, You Wang, Guang Li and Ruifen Hu*. [A Noncontact Dibutyl Phthalate Sensor Based on a Wireless-Electrodeless QCM-D Modified with Nano-Structured Nickel Hydroxide](https://www.mdpi.com/1424-8220/17/7/1681), [*Sensors*](https://www.mdpi.com/journal/sensors), 2017, 17(7), 1681.  
