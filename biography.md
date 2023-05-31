@@ -6,9 +6,9 @@ subtitle: Doctor & Blogger
 
 ---
 ## Education
-* PhD, Complexity Science and Engineering, [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html)
-* M.En (2018), Control Science and Engineering, [Zhejiang University](http://www.zju.edu.cn/)
-* B.En (2015), Automation, [Nanjing Tech University](http://www.njtech.edu.cn/)
+* Ph.D (2021.03), Complexity Science and Engineering, [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html)
+* M.En (2018.03), Control Science and Engineering, [Zhejiang University](http://www.zju.edu.cn/)
+* B.En (2015.06), Automation, [Nanjing Tech University](http://www.njtech.edu.cn/)
 
 ---
 ## Reserach Interests
@@ -25,8 +25,8 @@ subtitle: Doctor & Blogger
 
 ---
 ## Experience  
-* Mathematical modelling for the forward locomotion of *Drosophila* larvae, Jun.2019-Febr.2020.  
-* Soft robotics with bionic neural control strategies, Apr.2018-Sep.2019.  
+* Mathematical modelling for the forward locomotion of *Drosophila* larvae, Jun.2019-Febr.2021.  
+* Soft robotics with bionic neural control strategies, Apr.2018-Sep.2020.  
 * Identification of chinese herbal medicine based on electronic nose, Oct.2016-Mar.2018.  
 * Bio-inspired flow sensor based on carbon nanotube, Jun-Aug.2016. 
 * Study on online detection of neurotransmitter in vivo based on all-solid-state ion-selective micro-electrode, Mar-May.2016.  
@@ -36,13 +36,15 @@ subtitle: Doctor & Blogger
 ## Publication  
 
 ### *Article*   
-* **Xiyang Sun**, Yingtao Liu, Chang Liu, Koichi Mayumi, Kohzo Ito, Akinao Nose, Hiroshi Kohsaka*. [A neuromechanical model and kinematic analyses for Drosophila larval crawling based on physical measurements](), 2020.
+* **Xiyang Sun**, Akinao Nose, Hiroshi Kohsaka*. [A vacuum-actuated soft robot inspired by *Drosophila* larvae to study kinematics of crawling behaviour](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283316), [*Plos One*], 2023, 18(4):e0283316.
+* **Xiyang Sun**, Yingtao Liu, Chang Liu, Koichi Mayumi, Kohzo Ito, Akinao Nose, Hiroshi Kohsaka*. [A neuromechanical model for Drosophila larval crawling based on physical measurements](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01336-w), [*BMC Biology*], 2022, 20(1), 130.
 * **Xiyang Sun**, Linfeng Liu, Zhan Wang, Jiacheng Miao, You Wang*, Zhiyuan Luo, Guang Li. [An optimized multi-classifiers ensemble learning for identification of ginsengs based on electronic nose](https://www.sciencedirect.com/science/article/abs/pii/S0924424717309536), [*Sensors and Actuators A: Physical*](https://www.sciencedirect.com/journal/sensors-and-actuators-a-physical), 2017, 266,135-144.  
 * Zhan Wang, **Xiyang Sun**, Jiacheng Miao, You Wang*, Zhiyuan Luo, Guang Li. [Conformal Prediction Based on K-Nearest Neighbors for Discrimination of Ginsengs by a Home-Made Electronic Nose](https://www.mdpi.com/1424-8220/17/8/1869), [*Sensors*](https://www.mdpi.com/journal/sensors), 2017, 17(8), 1869.  
 * Daqi Chen, **Xiyang Sun**, Kaihuan Zhang, Guokang Fan, You Wang, Guang Li and Ruifen Hu*. [A Noncontact Dibutyl Phthalate Sensor Based on a Wireless-Electrodeless QCM-D Modified with Nano-Structured Nickel Hydroxide](https://www.mdpi.com/1424-8220/17/7/1681), [*Sensors*](https://www.mdpi.com/journal/sensors), 2017, 17(7), 1681.  
 * You Wang, Zhan Wang, Junwei Diao, **Xiyang Sun**, Zhiyuan Luo andGuang Li*. [Discrimination of Different Species of Dendrobium with an Electronic Nose Using Aggregated Conformal Predictor](https://www.mdpi.com/1424-8220/19/4/964), [*Sensors*](https://www.mdpi.com/journal/sensors), 2019, 19(4), 964.    
 
 ### *Theses*  
+* **Doctor thesis**: [Analyses of *Drosophila* larval locomotion dynamics by neuromechaical modelling and soft robot], 2021.
 * **Master thesis**: [Research On Ensemble Learning Based On Artiﬁcial Olfaction System](http://cdmd.cnki.com.cn/Article/CDMD-10335-1018186697.htm), 2018.
 * **Bachelor thesis**: Design Of Variable-Frequency Constant-Pressure Water Supply System Based On PLC, 2015.    
 
@@ -57,6 +59,7 @@ subtitle: Doctor & Blogger
 
 ---
 ## Scholarship and Award
+* Chinese Government Scholarship, China Scholarship Council, 2019
 * Most Popular Poster Award, 3rd Joint Symposium on Integrated Bioscience between Zhejiang University and the University of Tokyo, Nov.2019
 * Academic Research Grant for GSFS Doctor Course Students (2 times), The University of Tokyo, 2018-2019 
 * Excellent Postgraduate Students’ Award, Zhejiang University, Mar.2018
