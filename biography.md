@@ -44,7 +44,7 @@ subtitle: Doctor & Blogger
 * You Wang, Zhan Wang, Junwei Diao, **Xiyang Sun**, Zhiyuan Luo andGuang Li*. [Discrimination of Different Species of Dendrobium with an Electronic Nose Using Aggregated Conformal Predictor](https://www.mdpi.com/1424-8220/19/4/964), [*Sensors*](https://www.mdpi.com/journal/sensors), 2019, 19(4), 964.    
 
 ### *Theses*  
-* **Doctor thesis**: [Analyses of *Drosophila* larval locomotion dynamics by neuromechaical modelling and soft robot], 2021.
+* **Doctor thesis**: [Analyses of *Drosophila* larval locomotion dynamics by neuromechaical modelling and soft robot](), 2021.
 * **Master thesis**: [Research On Ensemble Learning Based On Artiﬁcial Olfaction System](http://cdmd.cnki.com.cn/Article/CDMD-10335-1018186697.htm), 2018.
 * **Bachelor thesis**: Design Of Variable-Frequency Constant-Pressure Water Supply System Based On PLC, 2015.    
 
