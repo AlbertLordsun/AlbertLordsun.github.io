@@ -38,22 +38,22 @@ subtitle: Doctor & Blogger
 ### *Article*   
 * [**A vacuum-actuated soft robot inspired by *Drosophila* larvae to study kinematics of crawling behaviour**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283316)  
   **Xiyang Sun**, Akinao Nose, Hiroshi Kohsaka*.  
-  [*Plos One*](), 2023, 18(4):e0283316.
+  *Plos One*, 2023, 18(4):e0283316.
 * [**A neuromechanical model for Drosophila larval crawling based on physical measurements**](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01336-w)  
   **Xiyang Sun**, Yingtao Liu, Chang Liu, Koichi Mayumi, Kohzo Ito, Akinao Nose, Hiroshi Kohsaka*.   
-  [*BMC Biology*](), 2022, 20(1), 130.
+  *BMC Biology*, 2022, 20(1), 130.
 * [**An optimized multi-classifiers ensemble learning for identification of ginsengs based on electronic nose**](https://www.sciencedirect.com/science/article/abs/pii/S0924424717309536)  
   **Xiyang Sun**, Linfeng Liu, Zhan Wang, Jiacheng Miao, You Wang*, Zhiyuan Luo, Guang Li.  
-  [*Sensors and Actuators A: Physical*](https://www.sciencedirect.com/journal/sensors-and-actuators-a-physical), 2017, 266,135-144.  
+  *Sensors and Actuators A: Physical*, 2017, 266,135-144.  
 * [**Conformal Prediction Based on K-Nearest Neighbors for Discrimination of Ginsengs by a Home-Made Electronic Nose**](https://www.mdpi.com/1424-8220/17/8/1869)  
   Zhan Wang, **Xiyang Sun**, Jiacheng Miao, You Wang*, Zhiyuan Luo, Guang Li.   
-  [*Sensors*](https://www.mdpi.com/journal/sensors), 2017, 17(8), 1869.  
+  *Sensors*, 2017, 17(8), 1869.  
 * [**A Noncontact Dibutyl Phthalate Sensor Based on a Wireless-Electrodeless QCM-D Modified with Nano-Structured Nickel Hydroxide**](https://www.mdpi.com/1424-8220/17/7/1681)  
   Daqi Chen, **Xiyang Sun**, Kaihuan Zhang, Guokang Fan, You Wang, Guang Li and Ruifen Hu*.   
-  [*Sensors*](https://www.mdpi.com/journal/sensors), 2017, 17(7), 1681.  
+  *Sensors*, 2017, 17(7), 1681.  
 * [**Discrimination of Different Species of Dendrobium with an Electronic Nose Using Aggregated Conformal Predictor**](https://www.mdpi.com/1424-8220/19/4/964)  
   You Wang, Zhan Wang, Junwei Diao, **Xiyang Sun**, Zhiyuan Luo andGuang Li*.   
-  [*Sensors*](https://www.mdpi.com/journal/sensors), 2019, 19(4), 964.    
+  *Sensors*, 2019, 19(4), 964.    
 
 ### *Patent*  
 * [**Light-activated electric-pickup EL-QCM-D arraying fluid detection system**](https://patents.google.com/patent/CN106092802B/en) (*granted*)   
