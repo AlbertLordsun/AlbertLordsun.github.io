@@ -84,7 +84,7 @@ subtitle: Doctor & Blogger
 * **Analysis of *Drosophila* adult brain connectome via unsupervised network learning**.  
   **Xiyang Sun**, Fumiyasu Komaki.  
   *CBS Retreat 2022*, Dec.9th-Dec.12th, Wako, Japan.
-* **Analysis of \textit{Drosophila} adult brain connectome via unsupervised network learning**.  
+* **Analysis of *Drosophila* adult brain connectome via unsupervised network learning**.  
   **Xiyang Sun**, Fumiyasu Komaki.  
   *MBSJ2022*, Nov.30th-Dec.2nd, Chiba, Japan.
 * **Unsupervised network embedding for *Drosophila* adult brain connectome**.  
@@ -105,16 +105,16 @@ subtitle: Doctor & Blogger
  
 ---
 ## Scholarship and Award
-* JNS-CNS Travel Award, The 16th Annual Meeting of Chinese Neuroscience Society, July.2023
-* Chinese Government Scholarship, China Scholarship Council, 2019-2021
-* Most Popular Poster Award, The 3rd Joint Symposium on Integrated Bioscience between Zhejiang University and the University of Tokyo, Nov.2019
-* Academic Research Grant, The University of Tokyo, 2018-2019 
-* Excellent Postgraduate Students’ Award, Zhejiang University, Mar.2018
-* National Scholarship, Chinese Ministry of Education, Oct.2017 
-* Award of Honor for Graduate, Zhejiang University, Oct.2017 
-* Award of Honor for Miyoshi Graduate, Zhejiang University, Oct.2017 
-* Award of Honor for Graduate (2 times), Zhejiang University, 2016-2017 
-* National Endeavor Fellowship (2 times), Chinese Ministry of Education, 2011-2013 
+* **JNS-CNS Travel Award**, The 16th Annual Meeting of Chinese Neuroscience Society, July.2023
+* **Chinese Government Scholarship**, China Scholarship Council, 2019-2021
+* **Most Popular Poster Award**, The 3rd Joint Symposium on Integrated Bioscience between Zhejiang University and the University of Tokyo, Nov.2019
+* **Academic Research Grant**, The University of Tokyo, 2018-2019 
+* **Excellent Postgraduate Students’ Award**, Zhejiang University, Mar.2018
+* **National Scholarship**, Chinese Ministry of Education, Oct.2017 
+* **Award of Honor for Graduate**, Zhejiang University, Oct.2017 
+* **Award of Honor for Miyoshi Graduate**, Zhejiang University, Oct.2017 
+* **Award of Honor for Graduate**, Zhejiang University, 2016-2017 
+* **National Endeavor Fellowship**, Chinese Ministry of Education, 2011-2013 
 * The First Prize Scholarship, Nanjing Tech University, 2011-2015 
 * The Second Prize Scholarship (5 times) 
 * Individual Scholarship (2 times) 
