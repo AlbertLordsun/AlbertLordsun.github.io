@@ -68,7 +68,7 @@ subtitle: Doctor & Blogger
 
 ### *Theses*  
 * **Doctor thesis**: [Analyses of *Drosophila* larval locomotion dynamics by neuromechaical modelling and soft robot](), 2021.
-* **Master thesis**: [Research On Ensemble Learning Based On Artiﬁcial Olfaction System](http://cdmd.cnki.com.cn/Article/CDMD-10335-1018186697.htm), 2018.
+* **Master thesis**: [Research On Ensemble Learning Based On Artiﬁcial Olfaction System]([http://cdmd.cnki.com.cn/Article/CDMD-10335-1018186697.htm](http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201802&filename=1018186697.nh&uniplatform=OVERSEA&v=LvkFhx0UeP65TILG4GeXbJcZdrjRVXelUlH3iXABgUOBww1l0y0-TGxjamSIAXl2)), 2018.
 * **Bachelor thesis**: Design Of Variable-Frequency Constant-Pressure Water Supply System Based On PLC, 2015.       
 
 ### *Presentation*  
@@ -107,8 +107,8 @@ subtitle: Doctor & Blogger
 ## Scholarship and Award
 * JNS-CNS Travel Award, The 16th Annual Meeting of Chinese Neuroscience Society, July.2023
 * Chinese Government Scholarship, China Scholarship Council, 2019-2021
-* Most Popular Poster Award, 3rd Joint Symposium on Integrated Bioscience between Zhejiang University and the University of Tokyo, Nov.2019
-* Academic Research Grant for GSFS Doctor Course Students (2 times), The University of Tokyo, 2018-2019 
+* Most Popular Poster Award, The 3rd Joint Symposium on Integrated Bioscience between Zhejiang University and the University of Tokyo, Nov.2019
+* Academic Research Grant, The University of Tokyo, 2018-2019 
 * Excellent Postgraduate Students’ Award, Zhejiang University, Mar.2018
 * National Scholarship, Chinese Ministry of Education, Oct.2017 
 * Award of Honor for Graduate, Zhejiang University, Oct.2017 
