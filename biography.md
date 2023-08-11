@@ -43,19 +43,48 @@ subtitle: Doctor & Blogger
 * Daqi Chen, **Xiyang Sun**, Kaihuan Zhang, Guokang Fan, You Wang, Guang Li and Ruifen Hu*. [A Noncontact Dibutyl Phthalate Sensor Based on a Wireless-Electrodeless QCM-D Modified with Nano-Structured Nickel Hydroxide](https://www.mdpi.com/1424-8220/17/7/1681), [*Sensors*](https://www.mdpi.com/journal/sensors), 2017, 17(7), 1681.  
 * You Wang, Zhan Wang, Junwei Diao, **Xiyang Sun**, Zhiyuan Luo andGuang Li*. [Discrimination of Different Species of Dendrobium with an Electronic Nose Using Aggregated Conformal Predictor](https://www.mdpi.com/1424-8220/19/4/964), [*Sensors*](https://www.mdpi.com/journal/sensors), 2019, 19(4), 964.    
 
-### *Theses*  
-* **Doctor thesis**: [Analyses of *Drosophila* larval locomotion dynamics by neuromechaical modelling and soft robot](), 2021.
-* **Master thesis**: [Research On Ensemble Learning Based On Artiﬁcial Olfaction System](http://cdmd.cnki.com.cn/Article/CDMD-10335-1018186697.htm), 2018.
-* **Bachelor thesis**: Design Of Variable-Frequency Constant-Pressure Water Supply System Based On PLC, 2015.    
-
 ### *Patent*  
 * Guang Li, **Xiyang Sun**, Ruifen Hu. [Light-activated electric-pickup EL-QCM-D arraying fluid detection system](https://patents.google.com/patent/CN106092802B/en) (*granted*), CN106092802B, China.  
 * Guang Li, **Xiyang Sun**, Daqi Chen, Ruifen Hu. [Electromagnetically-excited wireless QCM-D gas-phase detection system and method](https://patents.google.com/patent/CN105865962A/en) (*granted*), CN105865962B, China.  
-* Ruifen Hu, Daqi Chen, Guang Li, **Xiyang Sun**. [Electromagnetically-excited wireless detection system for QCM-D sensor](https://patents.google.com/patent/CN105842100A/en) (*granted*), CN105842100B, China.     
+* Ruifen Hu, Daqi Chen, Guang Li, **Xiyang Sun**. [Electromagnetically-excited wireless detection system for QCM-D sensor](https://patents.google.com/patent/CN105842100A/en) (*granted*), CN105842100B, China. 
+
+### *Theses*  
+* **Doctor thesis**: [Analyses of *Drosophila* larval locomotion dynamics by neuromechaical modelling and soft robot](), 2021.
+* **Master thesis**: [Research On Ensemble Learning Based On Artiﬁcial Olfaction System](http://cdmd.cnki.com.cn/Article/CDMD-10335-1018186697.htm), 2018.
+* **Bachelor thesis**: Design Of Variable-Frequency Constant-Pressure Water Supply System Based On PLC, 2015.       
 
 ### *Presentation*  
-* **Xiyang Sun**, Hiroshi Kohsaka, Akinao Nose. A neuromechanical model for forward locomotion of *Drosophila* larva (*Most Popular Poster Award*). The 3rd Joint Symposium on Integrated Biosciences between Zhejiang University and the University of Tokyo, *Nov.21th-25th*, 2019, Hangzhou, China.  
-* **Xiyang Sun**, Chang Liu, Koichi Mayumi, Kohzo Ito, Akinao Nose, Hiroshi Kohsaka. A neuromechanical model and kinematic analyses for *Drosophila* larval crawling based on physical measurements. The 43rd Annual Meeting of the Japan Neuroscience Society, *Jul.30th-Aug.1th*, 2020, Kobe, Japan.    
+* Unsupervised network embedding for connectome analysis in \textit{Drosophila} adult.
+  **Xiyang Sun**, Fumiyasu Komaki.
+  \textbf{The 46th Annual Meeting of the Japan Neuroscience Society}, Aug.1st-4th, Sendai, Japan.
+* Unsupervised network embedding for connectome analysis in \textit{Drosophila} adult.
+  **Xiyang Sun**, Fumiyasu Komaki.
+  \textbf{The 16th Annual Meeting of Chinese Neuroscience Society (CNS 2023)}, July.27th-30th, Zhuhai, China.
+* Unsupervised network embedding for connectome analysis in \textit{Drosophila} adult.
+  **Xiyang Sun**, Fumiyasu Komaki.
+  \textbf{CBS Young Investigators' Seminar}, Mar.3rd, Wako, Japan.
+* Analysis of \textit{Drosophila} adult brain connectome via unsupervised network learning.
+  **Xiyang Sun**, Fumiyasu Komaki.
+  \textbf{CBS Retreat 2022}, Dec.9th-Dec.12th, Wako, Japan.
+* Analysis of \textit{Drosophila} adult brain connectome via unsupervised network learning.
+  **Xiyang Sun**, Fumiyasu Komaki.
+  \textbf{MBSJ2022}, Nov.30th-Dec.2nd, Chiba, Japan.
+* Unsupervised network embedding for \textit{Drosophila} adult brain connectome.
+  **Xiyang Sun**, Fumiyasu Komaki.
+  \textbf{International Neuroinformatics Coordinating Facility (INCF) Neuroinformatics Assembly 2022}, Virtual, Sept.12th-16th.
+* Structural Embedding for Sensory Pathway based on \textit{Drosophila} Adult.
+  **Xiyang Sun**, Fumiyasu Komaki.
+  \textbf{The 45th Annual Meeting of the Japan Neuroscience Society (Neuro2022)}, Wakate Dojo: Synapses and Networks, June.30th-July.3rd, 2022, Okinawa, Japan.  
+* Structural embedding for multisensory integration based on \textit{Drosophila} adult brain connectome.
+  **Xiyang Sun**, Fumiyasu Komaki.
+  \textbf{2021 CBS Retreat}, Feb.25 and 28, 2022, Wako, Japan.  
+* A neuromechanical model and kinematic analyses for *Drosophila* larval crawling based on physical measurements.
+  **Xiyang Sun**, Chang Liu, Koichi Mayumi, Kohzo Ito, Akinao Nose, Hiroshi Kohsaka. 
+  The 43rd Annual Meeting of the Japan Neuroscience Society, *Jul.30th-Aug.1th*, 2020, Kobe, Japan.
+* A neuromechanical model for forward locomotion of *Drosophila* larva (*Most Popular Poster Award*).
+  **Xiyang Sun**, Hiroshi Kohsaka, Akinao Nose. 
+  The 3rd Joint Symposium on Integrated Biosciences between Zhejiang University and the University of Tokyo, *Nov.21th-25th*, 2019, Hangzhou, China.  
+ 
 
 ---
 ## Scholarship and Award
