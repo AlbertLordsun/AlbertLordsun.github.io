@@ -36,34 +36,34 @@ subtitle: Doctor & Blogger
 ## Publication  
 
 ### *Article*   
-* [A vacuum-actuated soft robot inspired by *Drosophila* larvae to study kinematics of crawling behaviour](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283316)  
+* [**A vacuum-actuated soft robot inspired by *Drosophila* larvae to study kinematics of crawling behaviour**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283316)  
   **Xiyang Sun**, Akinao Nose, Hiroshi Kohsaka*.  
   [*Plos One*](), 2023, 18(4):e0283316.
-* [A neuromechanical model for Drosophila larval crawling based on physical measurements](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01336-w)
-  **Xiyang Sun**, Yingtao Liu, Chang Liu, Koichi Mayumi, Kohzo Ito, Akinao Nose, Hiroshi Kohsaka*.  
+* [**A neuromechanical model for Drosophila larval crawling based on physical measurements**](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01336-w)  
+  **Xiyang Sun**, Yingtao Liu, Chang Liu, Koichi Mayumi, Kohzo Ito, Akinao Nose, Hiroshi Kohsaka*.   
   [*BMC Biology*](), 2022, 20(1), 130.
-* [An optimized multi-classifiers ensemble learning for identification of ginsengs based on electronic nose](https://www.sciencedirect.com/science/article/abs/pii/S0924424717309536)
-  **Xiyang Sun**, Linfeng Liu, Zhan Wang, Jiacheng Miao, You Wang*, Zhiyuan Luo, Guang Li.
+* [**An optimized multi-classifiers ensemble learning for identification of ginsengs based on electronic nose**](https://www.sciencedirect.com/science/article/abs/pii/S0924424717309536)  
+  **Xiyang Sun**, Linfeng Liu, Zhan Wang, Jiacheng Miao, You Wang*, Zhiyuan Luo, Guang Li.  
   [*Sensors and Actuators A: Physical*](https://www.sciencedirect.com/journal/sensors-and-actuators-a-physical), 2017, 266,135-144.  
-* [Conformal Prediction Based on K-Nearest Neighbors for Discrimination of Ginsengs by a Home-Made Electronic Nose](https://www.mdpi.com/1424-8220/17/8/1869)
-  Zhan Wang, **Xiyang Sun**, Jiacheng Miao, You Wang*, Zhiyuan Luo, Guang Li.  
+* [**Conformal Prediction Based on K-Nearest Neighbors for Discrimination of Ginsengs by a Home-Made Electronic Nose**](https://www.mdpi.com/1424-8220/17/8/1869)  
+  Zhan Wang, **Xiyang Sun**, Jiacheng Miao, You Wang*, Zhiyuan Luo, Guang Li.   
   [*Sensors*](https://www.mdpi.com/journal/sensors), 2017, 17(8), 1869.  
-* [A Noncontact Dibutyl Phthalate Sensor Based on a Wireless-Electrodeless QCM-D Modified with Nano-Structured Nickel Hydroxide](https://www.mdpi.com/1424-8220/17/7/1681)
+* [**A Noncontact Dibutyl Phthalate Sensor Based on a Wireless-Electrodeless QCM-D Modified with Nano-Structured Nickel Hydroxide**](https://www.mdpi.com/1424-8220/17/7/1681)  
   Daqi Chen, **Xiyang Sun**, Kaihuan Zhang, Guokang Fan, You Wang, Guang Li and Ruifen Hu*.   
   [*Sensors*](https://www.mdpi.com/journal/sensors), 2017, 17(7), 1681.  
-* [Discrimination of Different Species of Dendrobium with an Electronic Nose Using Aggregated Conformal Predictor](https://www.mdpi.com/1424-8220/19/4/964)
+* [**Discrimination of Different Species of Dendrobium with an Electronic Nose Using Aggregated Conformal Predictor**](https://www.mdpi.com/1424-8220/19/4/964)  
   You Wang, Zhan Wang, Junwei Diao, **Xiyang Sun**, Zhiyuan Luo andGuang Li*.   
   [*Sensors*](https://www.mdpi.com/journal/sensors), 2019, 19(4), 964.    
 
 ### *Patent*  
-* [Light-activated electric-pickup EL-QCM-D arraying fluid detection system](https://patents.google.com/patent/CN106092802B/en) (*granted*)  
+* [**Light-activated electric-pickup EL-QCM-D arraying fluid detection system**](https://patents.google.com/patent/CN106092802B/en) (*granted*)   
   Guang Li, **Xiyang Sun**, Ruifen Hu.  
   CN106092802B, China.  
-* [Electromagnetically-excited wireless QCM-D gas-phase detection system and method](https://patents.google.com/patent/CN105865962A/en) (*granted*)  
+* [**Electromagnetically-excited wireless QCM-D gas-phase detection system and method**](https://patents.google.com/patent/CN105865962A/en) (*granted*)   
   Guang Li, **Xiyang Sun**, Daqi Chen, Ruifen Hu.  
   CN105865962B, China.  
-* [Electromagnetically-excited wireless detection system for QCM-D sensor](https://patents.google.com/patent/CN105842100A/en) (*granted*)
-  Ruifen Hu, Daqi Chen, Guang Li, **Xiyang Sun**.
+* [**Electromagnetically-excited wireless detection system for QCM-D sensor**](https://patents.google.com/patent/CN105842100A/en) (*granted*)   
+  Ruifen Hu, Daqi Chen, Guang Li, **Xiyang Sun**.   
   CN105842100B, China. 
 
 ### *Theses*  
@@ -72,38 +72,37 @@ subtitle: Doctor & Blogger
 * **Bachelor thesis**: Design Of Variable-Frequency Constant-Pressure Water Supply System Based On PLC, 2015.       
 
 ### *Presentation*  
-* Unsupervised network embedding for connectome analysis in *Drosophila* adult.  
+* **Unsupervised network embedding for connectome analysis in *Drosophila* adult**.  
   **Xiyang Sun**, Fumiyasu Komaki.  
   *The 46th Annual Meeting of the Japan Neuroscience Society*, Aug.1st-4th, Sendai, Japan.  
-* Unsupervised network embedding for connectome analysis in *Drosophila* adult.  
+* **Unsupervised network embedding for connectome analysis in *Drosophila* adult**.  
   **Xiyang Sun**, Fumiyasu Komaki.  
   *The 16th Annual Meeting of Chinese Neuroscience Society (CNS 2023)*, July.27th-30th, Zhuhai, China.
-* Unsupervised network embedding for connectome analysis in *Drosophila* adult.  
+* **Unsupervised network embedding for connectome analysis in *Drosophila* adult**.  
   **Xiyang Sun**, Fumiyasu Komaki.  
   *CBS Young Investigators' Seminar*, Mar.3rd, Wako, Japan.
-* Analysis of *Drosophila* adult brain connectome via unsupervised network learning.  
+* **Analysis of *Drosophila* adult brain connectome via unsupervised network learning**.  
   **Xiyang Sun**, Fumiyasu Komaki.  
   *CBS Retreat 2022*, Dec.9th-Dec.12th, Wako, Japan.
-* Analysis of \textit{Drosophila} adult brain connectome via unsupervised network learning.  
+* **Analysis of \textit{Drosophila} adult brain connectome via unsupervised network learning**.  
   **Xiyang Sun**, Fumiyasu Komaki.  
   *MBSJ2022*, Nov.30th-Dec.2nd, Chiba, Japan.
-* Unsupervised network embedding for *Drosophila* adult brain connectome.  
+* **Unsupervised network embedding for *Drosophila* adult brain connectome**.  
   **Xiyang Sun**, Fumiyasu Komaki.  
   *International Neuroinformatics Coordinating Facility (INCF) Neuroinformatics Assembly 2022*, Virtual, Sept.12th-16th.
-* Structural Embedding for Sensory Pathway based on *Drosophila* Adult.  
+* **Structural Embedding for Sensory Pathway based on *Drosophila* Adult**.  
   **Xiyang Sun**, Fumiyasu Komaki.  
   *The 45th Annual Meeting of the Japan Neuroscience Society (Neuro2022)*, Wakate Dojo: Synapses and Networks, June.30th-July.3rd, 2022, Okinawa, Japan.  
-* Structural embedding for multisensory integration based on *Drosophila* adult brain connectome.  
+* **Structural embedding for multisensory integration based on *Drosophila* adult brain connectome**.  
   **Xiyang Sun**, Fumiyasu Komaki.  
   *2021 CBS Retreat*, Feb.25 and 28, 2022, Wako, Japan.  
-* A neuromechanical model and kinematic analyses for *Drosophila* larval crawling based on physical measurements.  
+* **A neuromechanical model and kinematic analyses for *Drosophila* larval crawling based on physical measurements**.  
   **Xiyang Sun**, Chang Liu, Koichi Mayumi, Kohzo Ito, Akinao Nose, Hiroshi Kohsaka.   
   *The 43rd Annual Meeting of the Japan Neuroscience Society*, Jul.30th-Aug.1th, 2020, Kobe, Japan.
-* A neuromechanical model for forward locomotion of *Drosophila* larva (*Most Popular Poster Award*).  
+* **A neuromechanical model for forward locomotion of *Drosophila* larva** (*Most Popular Poster Award*).  
   **Xiyang Sun**, Hiroshi Kohsaka, Akinao Nose.   
   *The 3rd Joint Symposium on Integrated Biosciences between Zhejiang University and the University of Tokyo*, Nov.21th-25th, 2019, Hangzhou, China.  
  
-
 ---
 ## Scholarship and Award
 * JNS-CNS Travel Award, The 16th Annual Meeting of Chinese Neuroscience Society, July.2023
@@ -124,11 +123,10 @@ subtitle: Doctor & Blogger
 
 ---
 ## PRESS RELEASES
-* [Insect-inspired soft robot is expected to be applied to micro-environments](https://dempa-digital.com/article/423764)  
+* [**Insect-inspired soft robot is expected to be applied to micro-environments**](https://dempa-digital.com/article/423764)  
   Dempa shimbun, April.2023.
-* [Simulation of a neuromechanical model for insect movement based on physical measurements](https://www.nikkei.com/article/DGXZRSP634389_V10C22A6000000/)  
+* [**Simulation of a neuromechanical model for insect movement based on physical measurements**](https://www.nikkei.com/article/DGXZRSP634389_V10C22A6000000/)  
   Nikkei, June.2022
-
 
 ---
 ## Contact
