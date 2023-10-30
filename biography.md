@@ -6,14 +6,13 @@ subtitle: Doctor & Blogger
 
 ---
 ## Education
-* Ph.D (2021.03), Complexity Science and Engineering, [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html)
+* Ph.D (2021.03), Complexity Science and Engineering, [The University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html)
 * M.En (2018.03), Control Science and Engineering, [Zhejiang University](http://www.zju.edu.cn/)
-* B.En (2015.06), Automation, [Nanjing Tech University](http://www.njtech.edu.cn/)
 
 ---
 ## Reserach Interests
 * Computational Neuroscience
-* Soft Robotics
+* Robotics
 * Machine Learning
 * Bio-sensors
 
@@ -80,10 +79,10 @@ subtitle: Doctor & Blogger
   *The 16th Annual Meeting of Chinese Neuroscience Society (CNS 2023)*, July.27th-30th, Zhuhai, China.
 * **Unsupervised network embedding for connectome analysis in *Drosophila* adult**.  
   **Xiyang Sun**, Fumiyasu Komaki.  
-  *CBS Young Investigators' Seminar*, Mar.3rd, Wako, Japan.
+  *CBS Young Investigators' Seminar*, Mar.3rd, Japan.
 * **Analysis of *Drosophila* adult brain connectome via unsupervised network learning**.  
   **Xiyang Sun**, Fumiyasu Komaki.  
-  *CBS Retreat 2022*, Dec.9th-Dec.12th, Wako, Japan.
+  *CBS Retreat 2022*, Dec.9th-Dec.12th, Japan.
 * **Analysis of *Drosophila* adult brain connectome via unsupervised network learning**.  
   **Xiyang Sun**, Fumiyasu Komaki.  
   *MBSJ2022*, Nov.30th-Dec.2nd, Chiba, Japan.
@@ -95,7 +94,7 @@ subtitle: Doctor & Blogger
   *The 45th Annual Meeting of the Japan Neuroscience Society (Neuro2022)*, Wakate Dojo: Synapses and Networks, June.30th-July.3rd, 2022, Okinawa, Japan.  
 * **Structural embedding for multisensory integration based on *Drosophila* adult brain connectome**.  
   **Xiyang Sun**, Fumiyasu Komaki.  
-  *2021 CBS Retreat*, Feb.25 and 28, 2022, Wako, Japan.  
+  *2021 CBS Retreat*, Feb.25 and 28, 2022, Japan.  
 * **A neuromechanical model and kinematic analyses for *Drosophila* larval crawling based on physical measurements**.  
   **Xiyang Sun**, Chang Liu, Koichi Mayumi, Kohzo Ito, Akinao Nose, Hiroshi Kohsaka.   
   *The 43rd Annual Meeting of the Japan Neuroscience Society*, Jul.30th-Aug.1th, 2020, Kobe, Japan.
