@@ -34,7 +34,10 @@ subtitle: Doctor & Blogger
 ---
 ## Publication  
 
-### *Article*   
+### *Article* 
+* [**BHGNN-RT: Network embedding for directed heterogeneous graphs**]([https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01336-w](https://arxiv.org/abs/2311.14404))  
+  **Xiyang Sun**,Fumiyasu Komaki.
+  *Arxiv*, 2023.
 * [**A vacuum-actuated soft robot inspired by *Drosophila* larvae to study kinematics of crawling behaviour**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283316)  
   **Xiyang Sun**, Akinao Nose, Hiroshi Kohsaka.  
   *Plos One*, 2023, 18(4):e0283316.
