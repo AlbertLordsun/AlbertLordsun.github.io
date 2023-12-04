@@ -35,13 +35,15 @@ subtitle: Doctor & Blogger
 ## Publication  
 
 ### *Article* 
-* [**BHGNN-RT: Network embedding for directed heterogeneous graphs**]([https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01336-w](https://arxiv.org/abs/2311.14404))  
+* [**BHGNN-RT: Network embedding for directed heterogeneous graphs**](https://arxiv.org/abs/2311.14404)  
   **Xiyang Sun**,Fumiyasu Komaki.
   *Arxiv*, 2023.
 * [**A vacuum-actuated soft robot inspired by *Drosophila* larvae to study kinematics of crawling behaviour**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283316)  
   **Xiyang Sun**, Akinao Nose, Hiroshi Kohsaka.  
   *Plos One*, 2023, 18(4):e0283316.
-* [**A neuromechanical model for Drosophila larval crawling based on physical measurements**](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01336-w)  
+* [**A neuromechanical model for Drosophila larval crawling based on physical measurements**](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01336-w
+        
+        )  
   **Xiyang Sun**, Yingtao Liu, Chang Liu, Koichi Mayumi, Kohzo Ito, Akinao Nose, Hiroshi Kohsaka.   
   *BMC Biology*, 2022, 20(1), 130.
 * [**An optimized multi-classifiers ensemble learning for identification of ginsengs based on electronic nose**](https://www.sciencedirect.com/science/article/abs/pii/S0924424717309536)  
